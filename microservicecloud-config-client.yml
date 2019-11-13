@@ -23,4 +23,5 @@ spring:
 eureka: 
   client: 
     service-url: 
-      defaultZone: http://eureka-test.com:7001/eureka/                     
+      defaultZone: http://eureka-test.com:7001/eureka/  
+# 注意使用UTF-8编码
